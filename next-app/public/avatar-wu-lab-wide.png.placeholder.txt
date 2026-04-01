@@ -1,0 +1,1 @@
+将原 Vite 项目中的 public/avatar-wu-lab-wide.png 复制到此目录并命名为 avatar-wu-lab-wide.png，然后可删除本说明文件。
